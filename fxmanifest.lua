@@ -7,7 +7,7 @@ games        { 'rdr3', 'gta5' }
 name 'mor-drugsystem'
 author 'morpheus1076'
 description 'Drogensystem'
-version '0.0.4'
+version '0.0.5'
 
 client_script {
 			"client.lua",
